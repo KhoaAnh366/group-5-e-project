@@ -17,7 +17,7 @@ main {
 }
 
 #sec_01 {
-    background: url(/img/header-top-bg.jpg);
+    background: url(img/header-top-bg.jpg);
     width: auto;
     height: 150px;
     padding-top: 65px
@@ -269,7 +269,7 @@ nav {
 .text_slider {
     width: auto;
     height: 40px;
-    background: url(/img/header-top-bg.jpg);
+    background: url(img/header-top-bg.jpg);
     padding-top: 20px;
     padding-left: 30px
 }
@@ -3085,7 +3085,7 @@ a:nth-child(5) {
 }
 
 #sec_05 {
-    background: url(/img/header-top-bg.jpg);
+    background: url(img/header-top-bg.jpg);
     width: auto;
     height: 65px
 }
@@ -3136,7 +3136,7 @@ footer .footer_nav #brands_div {
     width: auto;
     background: red;
     margin-top: -110px;
-    background: url(/img/header-top-bg.jpg);
+    background: url(img/header-top-bg.jpg);
     height: 32px;
     padding-top: 16px;
     padding-left: 20px;
@@ -3163,7 +3163,7 @@ footer .footer_nav #products_div {
     width: auto;
     background: red;
     margin-top: -110px;
-    background: url(/img/header-top-bg.jpg);
+    background: url(img/header-top-bg.jpg);
     height: 32px;
     padding-top: 16px;
     padding-left: 20px;
