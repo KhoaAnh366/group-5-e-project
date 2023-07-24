@@ -5,11 +5,7 @@ var scrolltotop = {
         scrollduration: 1e3,
         fadeduration: [500, 100]
     },
-    controlHTML: <img src ="../img/backtotop.png"/>,
-    controlattrs: {
-        offsetx: 5,
-        offsety: 5
-    },
+    
     anchorkeyword: "#top",
     state: {
         isvisible: !1,
